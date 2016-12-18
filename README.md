@@ -6,4 +6,4 @@ MachineLearning#3: Histogram generation on data provided.<br />
 MachineLearning#4: Accuracy test between decision tree and KNeighbours classifiers.<br />
 MachineLearning#5: Basic classifier based on euclideon distance.<br />
 <br />
---- This all scripts where written for practice ---
+--- This all scripts were written for practice ---
